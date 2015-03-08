@@ -1,0 +1,7 @@
+//Code here in c++
+
+int main()
+{
+  printf("hello world! ");
+}
+
